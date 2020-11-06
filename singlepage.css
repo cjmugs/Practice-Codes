@@ -1,0 +1,21 @@
+div {
+    display: none;
+}
+#btn1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border:none;
+    border-radius: 3px;
+    background-color:red;
+}
+#btn2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border:none;
+    border-radius: 3px;
+    background-color:red;
+}
+#btn3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border:none;
+    border-radius: 3px;
+    background-color:red;
+}
